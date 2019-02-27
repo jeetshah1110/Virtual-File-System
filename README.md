@@ -3,6 +3,7 @@
 This project is used to emulate all functionalities provided by File systems.
 
 #### Platform required
+-----------------------------------------
 Windows NT platform OR Linux Distributions
 
 #### Architectural requirement
