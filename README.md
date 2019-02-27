@@ -3,7 +3,6 @@
 This project is used to emulate all functionalities provided by File systems.
 
 #### Platform required
-- - - -
 Windows NT platform OR Linux Distributions
 
 #### Architectural requirement
@@ -16,6 +15,7 @@ Command User Interface
 System Programming using C
 
 #### Description
+- - - -
 * In this project we emulate all data structures which are used by operating system to
 manage File system oriented tasks.
 * As the name suggest its virtual because we maintain all records in Primary storage.
@@ -27,3 +27,4 @@ subsystem as Open, Close, Read, Write, Lseek, Create, RM, LS, Stat, Fstat etc.
 * While providing the implementations of all above functionality we use our own data
 structures by referring Algorithms of UNNIX operating system.
 * By using this project we can get overview of UFS (UNIX File System) on any platform.
+- - - -
