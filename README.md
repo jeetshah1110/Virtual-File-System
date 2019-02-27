@@ -2,17 +2,15 @@
 
 This project is used to emulate all functionalities provided by File systems.
 
-__Platform required__
+## Platform required
 Windows NT platform OR Linux Distributions
 
-__Architectural requirement__
-
+## Architectural requirement
 Intel 32 bit processor
 
-__User Interface__
-
+## User Interface
 Command User Interface
 
-__Technology used__
+## Technology used
 
 System Programming using C
