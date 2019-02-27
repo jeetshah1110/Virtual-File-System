@@ -2,10 +2,10 @@
 
 This project is used to emulate all functionalities provided by File systems.
 
-### Platform required
+#### Platform required
 Windows NT platform OR Linux Distributions
 
-## Architectural requirement
+#### Architectural requirement
 Intel 32 bit processor
 
 ## User Interface
