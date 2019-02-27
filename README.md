@@ -6,7 +6,7 @@ __Platform required__
 Windows NT platform OR Linux Distributions
 
 __Architectural requirement__
-Intel 32 bit processor
+*Intel 32 bit processor*
 
 __User Interface__
 Command User Interface
