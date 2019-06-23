@@ -12,7 +12,7 @@ Intel 32 bit processor
 Command User Interface
 
 #### Technology used
-System Programming using C
+C programming
 
 ### Description
 - - - -
