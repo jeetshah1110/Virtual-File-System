@@ -695,7 +695,7 @@ int main()
 			}
 			else if (strcmp(command[0], "exit") == 0)
 			{
-				printf("Terminating marvellous vfs\n");
+				printf("Terminating vfs\n");
 				break;
 			}
 			else
