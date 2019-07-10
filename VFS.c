@@ -585,12 +585,12 @@ int fstat_file(int fd)
 		printf("File Permission:Read Only\n");
 
 	}
-	else if (temp->permission == 1)
+	else if (temp->permission == 2)
 	{
 		printf("File Permission:Write\n");
 
 	}
-	else if (temp->permission == 1)
+	else if (temp->permission == 3)
 	{
 		printf("File Permission:Read and Write\n");
 
@@ -630,12 +630,12 @@ int stat_file(char * name)
 		printf("File Permission:Read Only\n");
 
 	}
-	else if (temp->permission == 1)
+	else if (temp->permission == 2)
 	{
 		printf("File Permission:Write\n");
 
 	}
-	else if (temp->permission == 1)
+	else if (temp->permission == 3)
 	{
 		printf("File Permission:Read and Write\n");
 
