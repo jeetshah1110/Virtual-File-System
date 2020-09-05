@@ -27,6 +27,24 @@ subsystem as Open, Close, Read, Write, Lseek, Create, RM, LS, Stat, Fstat etc.
 * While providing the implementations of all above functionality we use our own data
 structures by referring Algorithms of UNIX operating system.
 * By using this project we can get overview of UFS (UNIX File System) on any platform.
+
+### Commands implemented using this project
+Command | Description
+------- | ------------------------------------------
+ls      | To list out all the files
+clear   | To clear the console
+create  | Create a new file
+open    | Open specific file
+close   | Close specific file
+closeall| Close all the opened files
+read    | To read contents from the file
+write   | To write contents into the file
+truncate| To remove all the data from the file
+rm      | To delete the file
+stat    | Display information about the file
+fstat   | Display information using the File Descriptor
+exit    | To terminate the File System
+
 - - - -
 #### Reference
 Linux System Programming by Robert Love
