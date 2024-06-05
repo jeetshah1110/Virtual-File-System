@@ -28,6 +28,7 @@ subsystem as Open, Close, Read, Write, Lseek, Create, RM, LS, Stat, Fstat etc.
 structures by referring Algorithms of UNIX operating system.
 * By using this project we can get overview of UFS (UNIX File System) on any platform.
 - - - -
+![unnamed](https://github.com/jeetshah1110/Virtual-File-System/assets/36303896/9a10a04a-13fe-4ded-827b-aa76c0040bc7)
 
 ### Commands implemented using this project
 Command | Description
